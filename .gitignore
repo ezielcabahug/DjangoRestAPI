@@ -1,0 +1,8 @@
+# Virtual Env Directory
+/venv
+
+# Pycharm Directory
+/.idea
+
+# Temporary DB
+db.sqlite3
