@@ -6,3 +6,6 @@
 
 # Temporary DB
 db.sqlite3
+
+# All cache
+*.pyc
