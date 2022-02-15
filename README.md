@@ -1,0 +1,2 @@
+# DjangoRestAPI
+Example CRUD Application
